@@ -11,7 +11,7 @@ A simple website that prints helloworld.
 
 1. **Clone the repository**:
    ```bash
-   git clone [[https://github.com/AdeleganJoy/](https://github.com/AdeleganJoy/hello_world
+   git clone https://github.com/AdeleganJoy/HelloWorld
      ```
    
 2. **Navigate to the project directory**:
