@@ -1,5 +1,5 @@
 # ☺️ Simple website
-A simple website that prints helloworld.
+A simple website that prints " Hello World".
 
 ## 📋 Features
 
